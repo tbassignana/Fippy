@@ -1,0 +1,9 @@
+config.py
+trading_log.log
+__pycache__/
+*.pyc
+venv/
+env/
+.vscode/
+.idea/
+.env
